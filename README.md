@@ -46,7 +46,10 @@ Revisar:
 - [`docs/modelo-datos.md`](docs/modelo-datos.md)
 - [`docs/roadmap.md`](docs/roadmap.md)
 
+
 ## Progreso actual
 
 - ✅ API inicial de login en `apps/admin-app/backend` para admin y cliente.
 - ✅ Pantalla de login cliente en `apps/store-app/frontend` conectada al endpoint de cliente.
+=======
+
